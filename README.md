@@ -1,8 +1,9 @@
 ### Hi, I'm XorSum😊
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorsum)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorsum)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xorsum)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XorSum/XorSum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
